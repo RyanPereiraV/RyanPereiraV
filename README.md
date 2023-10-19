@@ -6,7 +6,7 @@
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanPereiraV&show_icons=true&theme=dark)
 
-## Tecnologias que estou estudando
+## Tecnologias e Linguagens que estou estudando:
 <div style = "display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
